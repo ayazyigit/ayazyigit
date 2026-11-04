@@ -41,6 +41,7 @@ Open Source Volunteer	Pardus Linux	Jan 2025 — Nov 2026	Usability Testing, Syst
 
 🏆 Python Specialist — Kaggle (Nov 2026)
 🏆 MongoDB Agility and Velocity — MongoDB (Nov 2026)
+🏆 AWS Cloud Architecture — AWS (Nov 2026)
 🐧 Linux System Administration & Team Leadership
 
 ***
