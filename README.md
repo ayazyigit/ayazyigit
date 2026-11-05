@@ -43,6 +43,7 @@ Role	Organization	Period	Highlights
 🏆 Python Specialist — Kaggle (Nov 2026)
 🏆 MongoDB Agility and Velocity — MongoDB (Nov 2026)
 🏆 AWS Cloud Architecture — AWS (Nov 2026)
+🏆 EDB Postgres AI Database Specialist — EDB (Nov 2026)
 🐧 Linux System Administration & Team Leadership
 
 ***
