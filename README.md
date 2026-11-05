@@ -14,7 +14,7 @@ Experienced Systems Architect and Software Developer with a solid background in 
 
 💡 Co-Founder at YGT
 🏢 Former Co-Founder & Operations Director at UniDijital
-⚡ Former General Manager & COCC Chief at Lurabase
+⚡ Founder & General Manager & COCC Chief at Lurabase
 🐧 Active contributor to the Pardus Linux ecosystem
 🧠 Specialized in Python, Linux System Administration, Database Management & Web Applications
 
@@ -35,7 +35,7 @@ Role	Organization	Period	Highlights
 **Co-Founder	YGT**	Mar 2018 — Present	Systems Architecture, Linux Infrastructure, Server Administration
 **Open Source Volunteer	Pardus Linux**	Jan 2025 — Nov 2026	Usability Testing, System Utilities, Localization & Testing
 **<sub>FORMER</sub> Co-Founder & Ops Director	UniDijital**	Jan 2026 — Apr 2026	Digital Platform Operations, Core Workflow Architecture
-**<sub>FORMER</sub> General Manager & COCC Chief	Lurabase**	May 2025 — Nov 2026	Strategic Data Analysis, Process Optimization, System Admin
+**Founder & COCC Chief	Lurabase**	May 2025 — Now Strategic Data Analysis, Process Optimization, System Admin
 **<sub>FORMER</sub> Video Streamer & Content Creator	Ayaz Yiğit**	Mar 2020 — Apr 2021	Video Editing, Hardware Systems Optimization
 	***
 📜 Licenses & Certifications
